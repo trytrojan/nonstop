@@ -1,6 +1,6 @@
 {
     "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "description": "Deploy ***** on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
@@ -9,7 +9,7 @@
         },
         "AID": {
             "description": "AlterID",
-            "value": "64"
+            "value": "0"
         },
         "WSPATH": {
             "description": "WebSocket Path",
@@ -17,6 +17,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "repository": "https://github.com/trytrojan/nonstop",
     "stack": "container"
 }
